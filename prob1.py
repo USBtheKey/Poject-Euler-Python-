@@ -1,5 +1,5 @@
 
-def sum_multiple_below_1000():
+def source():
 
     sum = 0
 

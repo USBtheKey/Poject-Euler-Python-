@@ -1,4 +1,6 @@
-import prob1
+# import the right file; i.e. prob(insert number)
+import prob2
 
-print(prob1.sum_multiple_below_1000())
+# change the file name; i.e prob(insert number).source()
+print(prob2.source())
 

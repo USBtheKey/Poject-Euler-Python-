@@ -1,6 +1,7 @@
 list_fibo = []
 
-def fibo_calc():
+
+def source():
 
     first_num = 0
     second_num = 1
